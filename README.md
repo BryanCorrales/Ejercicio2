@@ -1,1 +1,2 @@
-# Ejercicio2
+#Sergio Sigcha
+# Ejercicio2 
